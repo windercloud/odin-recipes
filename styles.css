@@ -29,3 +29,7 @@ h3{
 #main-list a{
     color: orangered;
 }
+
+img {
+    border-radius: 20px;
+}
