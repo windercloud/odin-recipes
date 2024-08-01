@@ -1,0 +1,31 @@
+* {
+    font-family: 'Tahoma', sans-serif;
+}
+
+h1,h2,h3{
+    color:orange
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 52px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+ul{
+    font-weight: lighter;
+    font-size: 24px;
+}
+
+ul a{
+    color: orangered;
+}
