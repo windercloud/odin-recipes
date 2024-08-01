@@ -21,11 +21,11 @@ h3{
     font-size: 24px;
 }
 
-ul{
+#main-list{
     font-weight: lighter;
     font-size: 24px;
 }
 
-ul a{
+#main-list a{
     color: orangered;
 }
